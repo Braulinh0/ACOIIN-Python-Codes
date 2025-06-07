@@ -14,10 +14,11 @@ Ideal para estudiantes y cualquier persona interesada en comenzar a programar de
 
 ## 🧠 ¿Qué encontrarás aquí?
 
-- Ejercicios de programación clasificados por dificultad 📈  
-- Actividades con personajes divertidos como *31 Minutos*, *Star Wars* y más ⭐  
-- Códigos comentados para facilitar el aprendizaje 💬  
-- Retos para practicar y compartir en clase o en comunidad 💡  
-- Clases por semana con enfoque pedagógico 🗓️
+- 🧾 **Sintaxis básica de Python** explicada paso a paso  
+- 🔤 **Variables y tipos de datos** vistos en clase  
+- 🧩 **Resolución de problemas propuestos** durante las sesiones  
+- 🎯 **Ejercicios prácticos** aplicados a contextos creativos  
+- 📁 **Carpetas organizadas por clase y temática**  
+- 🚀 ¡Y mucho más contenido para aprender jugando y practicando!
 
 ---
