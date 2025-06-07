@@ -1,14 +1,14 @@
 # 🐍 ACOIIN Python Codes
 
 ¡Bienvenido/a al repositorio oficial de **ACOIIN-Python-Codes**!  
-Aquí encontrarás ejercicios, desafíos y ejemplos prácticos diseñados para aprender y enseñar programación en **Python**, con un enfoque entretenido y educativo.
+Aquí encontrarás repositorio de las clases con variables vistas en clases, ejercicios y ejemplos prácticos diseñados para aprender y enseñar programación en **Python**, con un enfoque entretenido y educativo.
 
 ---
 
 ## 📚 ¿Qué es ACOIIN-Python-Codes?
 
-Este repositorio forma parte del proyecto educativo de ACOIIN, donde usamos Python como herramienta para desarrollar el pensamiento lógico, la creatividad y la resolución de problemas.  
-Ideal para estudiantes, docentes y cualquier persona interesada en comenzar a programar desde cero o mejorar sus habilidades.
+Este repositorio forma parte del proyecto de la academia ACOIIN, donde usamos Python como herramienta para desarrollar el pensamiento lógico, la creatividad y la resolución de problemas.  
+Ideal para estudiantes y cualquier persona interesada en comenzar a programar desde cero o mejorar sus habilidades.
 
 ---
 
