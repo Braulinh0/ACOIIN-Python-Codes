@@ -1,7 +1,7 @@
 # 🐍 ACOIIN Python Codes
 
 ¡Bienvenido/a al repositorio oficial de **ACOIIN-Python-Codes**!  
-Aquí encontrarás repositorio de las clases con variables vistas en clases, ejercicios y ejemplos prácticos diseñados para aprender y enseñar programación en **Python**, con un enfoque entretenido y educativo.
+Aquí encontrarás repositorios de las clases con variables vistas en clases, ejercicios y ejemplos prácticos diseñados para aprender y enseñar programación en **Python**, con un enfoque entretenido y educativo.
 
 ---
 
